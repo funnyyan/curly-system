@@ -1,0 +1,4 @@
+﻿  demo.cpp
+e:\vscodeproject\data-structure\stackdemo2\stackdemo2\demo.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  StackDemo2.vcxproj -> E:\VSCodeProject\data-structure\StackDemo2\Debug\StackDemo2.exe
+  StackDemo2.vcxproj -> E:\VSCodeProject\data-structure\StackDemo2\Debug\StackDemo2.pdb (Full PDB)
